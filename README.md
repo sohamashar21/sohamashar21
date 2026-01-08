@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi 👋, I'm Soham Ashar 
+I'm Soham Ashar 
 
 ### A passionate developer 
 
