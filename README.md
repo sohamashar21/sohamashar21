@@ -20,7 +20,7 @@ I'm Soham Ashar
 
 - 🌱 I'm currently learning **React and Java**
 
-- 👯 I'm looking to collaborate on **open source projects**
+- 🕺🏻🕺🏻 I'm looking to collaborate on **open source projects**
 
 - 🤝 I'm looking for help with **backend **
 
