@@ -18,10 +18,6 @@ I'm Soham Ashar
 
 ### A passionate developer 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sohamashar21&label=Profile views&color=0e75b6&style=flat" alt="sohamashar21" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sohamashar21" alt="sohamashar21" /></a> </p>
-
 - 🌱 I'm currently learning **React and Java**
 
 - 👯 I'm looking to collaborate on **open source projects**
