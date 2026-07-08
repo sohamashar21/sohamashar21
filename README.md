@@ -1,5 +1,5 @@
 # 💫 About Me:
- 🌱 I'm currently learning **React and Java**<br><br> 🕺🏻🕺🏻 I'm looking to collaborate on **open source projects**<br><br>🤝 I'm looking for help with **backend **<br><br>💬 Ask me about **Web development , databases**<br><br>📫 How to reach me **sohamashar21@gmail.com**<br><br>⚡ Fun fact **Loves Anime & Gaming.**<br>
+ 🌱 I'm currently learning **React and Java**<br><br> 🕺🏻🕺🏻 I'm looking to collaborate on **open source projects**<br><br>🤝 I'm looking for help with **backend**<br><br>💬 Ask me about **Web development , databases**<br><br>📫 How to reach me **sohamashar21@gmail.com**<br><br>⚡ **Loves Anime & Gaming**<br>
 
 
 ## 🌐 Socials:
