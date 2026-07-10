@@ -1,141 +1,139 @@
 <div align="center">
 
-# Soham Ashar
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:1E1B4B&height=200&section=header&text=Soham%20Ashar&fontSize=55&fontColor=E9D5FF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Web%20Developer%20%7C%20BCA%20Student&descAlignY=58&descSize=17&descColor=C4B5FD" width="100%"/>
 
-**Full Stack Web Developer Â· BCA Student**
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=21&duration=3000&pause=1200&color=A78BFA&center=true&vCenter=true&width=650&lines=Learning+React%2C+Java+%26+Backend+Development;Building+with+JavaScript%2C+React+%26+APIs;Open+to+Open+Source+Collaboration" alt="Typing SVG"/>
+</a>
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/mostlysoham)
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://reddit.com/user/sohamashar)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sohamashar21@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sohamashar21)
+<br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=sohamashar21&color=6f42c1&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/sohamashar21?color=6f42c1&style=for-the-badge&label=FOLLOWERS)
+[![Instagram](https://img.shields.io/badge/Instagram-8B5CF6?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mostlysoham)
+[![Reddit](https://img.shields.io/badge/Reddit-8B5CF6?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/user/sohamashar)
+[![Email](https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sohamashar21@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-6D28D9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sohamashar21)
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=sohamashar21&label=PROFILE%20VIEWS&color=8b5cf6&style=for-the-badge" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/sohamashar21?label=FOLLOWERS&color=8b5cf6&style=for-the-badge&logo=github&logoColor=white" alt="Followers"/>
 
 </div>
 
-<br>
+<br/>
 
-## About Me
+---
 
-I'm a BCA student focused on **Full Stack Web Development**, currently deepening my skills in **React, Java, and Backend Development**. I build projects using **JavaScript, React, databases, and APIs**, and I'm interested in **open source contributions** and continuous full stack growth.
+## ðŸŸ£ About Me
 
-- ðŸŒ± Currently learning **React, Java, and Backend Development**
-- ðŸ’» Building with **JavaScript, React, Databases, and APIs**
-- ðŸš€ Interested in **Open Source Contributions and Full Stack Development**
-- ðŸ’¬ Ask me about **Web Development, JavaScript, SQL, and Databases**
-- ðŸŽ® Anime & Gaming enthusiast
-- ðŸ“« Reach me at **sohamashar21@gmail.com**
+I'm a **BCA student** with a strong passion for **Full Stack Web Development**. I'm currently deepening my skills in **React, Java, and Backend Development**, and I enjoy building real, working projects using **JavaScript, React, databases, and APIs**.
 
-<br>
+I'm actively interested in **open source contributions** and full stack engineering â€” always happy to talk shop about web development, JavaScript, SQL, or databases. Outside of code, I'm an **anime and gaming enthusiast** ðŸŽ®
 
-## Tech Stack
+<br/>
+
+**ðŸŽ¯ Open To**
+- ðŸ¤ Open Source Contributions
+- ðŸ’» Full Stack Development Collaborations
+- ðŸ“š Growth opportunities around React, Java & Backend Development
+
+**ðŸ’¬ Ask Me About**
+
+![Web Development](https://img.shields.io/badge/Web%20Development-1E1B4B?style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-1E1B4B?style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-1E1B4B?style=flat-square)
+![Databases](https://img.shields.io/badge/Databases-1E1B4B?style=flat-square)
+
+---
+
+## ðŸŸ£ Tech Stack
 
 **Frontend**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react&theme=dark"/>
 
 **Backend & Database**
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<img src="https://skillicons.dev/icons?i=java,nodejs,mysql&theme=dark"/>
+![Oracle](https://img.shields.io/badge/Oracle-6D28D9?style=for-the-badge&logo=oracle&logoColor=white)
 
 **Programming Languages**
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+<img src="https://skillicons.dev/icons?i=c,cpp&theme=dark"/>
 
 **Tools**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+<img src="https://skillicons.dev/icons?i=git,github&theme=dark"/>
+![Power BI](https://img.shields.io/badge/Power%20BI-6D28D9?style=for-the-badge&logo=powerbi&logoColor=white)
 
-<br>
+---
 
-## Current Focus
+## ðŸŸ£ GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sohamashar21&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&border_color=6D28D9" width="49%"/>
+<img src="https://streak-stats.demolab.com/?user=sohamashar21&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates=7C6AAE" width="49%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohamashar21&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD&border_color=6D28D9" width="49%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=sohamashar21&theme=dracula&no-frame=true&column=3&margin-w=8&margin-h=8" width="49%"/>
+
+</div>
+
+---
+
+## ðŸŸ£ Contribution Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sohamashar21&theme=dracula&hide_border=true&area=true" width="100%"/>
+
+<details>
+<summary>ðŸ Contribution Snake</summary>
+<br/>
+
+<img src="https://raw.githubusercontent.com/sohamashar21/sohamashar21/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+> Renders once the [snake workflow](https://github.com/Platane/snk) is enabled on the `sohamashar21/sohamashar21` repository.
+
+</details>
+
+---
+
+## ðŸŸ£ Current Focus
 
 ```yaml
-Learning:
-  - React
-  - Java
-  - Backend Development
-
-Building:
-  - JavaScript & React based projects
-  - Database and API integrations
-
-Exploring:
-  - Open Source Contributions
-  - Full Stack Development
-
-Ask me about:
-  - Web Development
-  - JavaScript
-  - SQL & Databases
+current_focus:
+  learning:
+    - React
+    - Java
+    - Backend Development
+  building:
+    - Projects using JavaScript, React, Databases & APIs
+  exploring:
+    - Open Source Contributions
+  open_to:
+    - Full Stack Development Collaborations
+    - Open Source Projects
 ```
 
-<br>
+---
 
-## GitHub Analytics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sohamashar21&theme=dark&hide_border=false&include_all_commits=false&count_private=false&title_color=a970ff&icon_color=a970ff&text_color=ffffff&bg_color=0d1117)
-
-![Streak Stats](https://streak-stats.demolab.com/?user=sohamashar21&theme=dark&hide_border=false&background=0d1117&ring=a970ff&fire=a970ff&currStreakLabel=a970ff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sohamashar21&theme=dark&hide_border=false&layout=compact&title_color=a970ff&text_color=ffffff&bg_color=0d1117)
-
-</div>
-
-<br>
-
-## GitHub Trophies
+## ðŸŸ£ Connect With Me
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=sohamashar21&theme=algolia&no-frame=true&no-bg=false&margin-w=8&column=7)
+[![Instagram](https://img.shields.io/badge/Instagram-8B5CF6?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mostlysoham)
+[![Reddit](https://img.shields.io/badge/Reddit-8B5CF6?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/user/sohamashar)
+[![Gmail](https://img.shields.io/badge/Gmail-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sohamashar21@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-6D28D9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sohamashar21)
 
 </div>
 
-<br>
-
-## Contribution Activity
+---
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sohamashar21&theme=react-dark&hide_border=true&bg_color=0d1117&color=a970ff&line=a970ff&point=ffffff)
+*Consistent small commits build great engineers.*
 
-</div>
-
-<br>
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/sohamashar21/sohamashar21/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
-<br>
-
-## Connect With Me
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/mostlysoham)
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://reddit.com/user/sohamashar)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sohamashar21@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sohamashar21)
-
-<br>
-
-*"Learning today, building tomorrow."*
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=120&section=footer)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,50:302B63,100:0F0C29&height=110&section=footer" width="100%"/>
 
 </div>
