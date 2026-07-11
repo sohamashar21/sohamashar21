@@ -73,11 +73,11 @@ I'm actively interested in **open source contributions** and full stack engineer
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sohamashar21&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&border_color=6D28D9" width="49%"/>
+
 <img src="https://streak-stats.demolab.com/?user=sohamashar21&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakNum=E9D5FF&sideNums=E9D5FF&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates=7C6AAE" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohamashar21&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD&border_color=6D28D9" width="49%"/>
-<img src="https://github-profile-trophy.vercel.app/?username=sohamashar21&theme=dracula&no-frame=true&column=3&margin-w=8&margin-h=8" width="49%"/>
+
+
 
 </div>
 
