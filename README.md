@@ -24,20 +24,20 @@
 
 ---
 
-## ðŸŸ£ About Me
+## About Me
 
 I'm a **BCA student** with a strong passion for **Full Stack Web Development**. I'm currently deepening my skills in **React, Java, and Backend Development**, and I enjoy building real, working projects using **JavaScript, React, databases, and APIs**.
 
-I'm actively interested in **open source contributions** and full stack engineering â€” always happy to talk shop about web development, JavaScript, SQL, or databases. Outside of code, I'm an **anime and gaming enthusiast** ðŸŽ®
+I'm actively interested in **open source contributions** and full stack engineering and always happy to talk shop about web development, JavaScript, SQL, or databases. Outside of code, I'm an **anime and gaming enthusiast** 🎮
 
 <br/>
 
-**ðŸŽ¯ Open To**
-- ðŸ¤ Open Source Contributions
-- ðŸ’» Full Stack Development Collaborations
-- ðŸ“š Growth opportunities around React, Java & Backend Development
+**Open To**
+- Open Source Contributions
+- Full Stack Development Collaborations
+- Growth opportunities around React, Java & Backend Development
 
-**ðŸ’¬ Ask Me About**
+**Ask Me About**
 
 ![Web Development](https://img.shields.io/badge/Web%20Development-1E1B4B?style=flat-square)
 ![JavaScript](https://img.shields.io/badge/JavaScript-1E1B4B?style=flat-square)
@@ -46,7 +46,7 @@ I'm actively interested in **open source contributions** and full stack engineer
 
 ---
 
-## ðŸŸ£ Tech Stack
+## Tech Stack
 
 **Frontend**
 
@@ -55,7 +55,8 @@ I'm actively interested in **open source contributions** and full stack engineer
 **Backend & Database**
 
 <img src="https://skillicons.dev/icons?i=java,nodejs,mysql&theme=dark"/>
-![Oracle](https://img.shields.io/badge/Oracle-6D28D9?style=for-the-badge&logo=oracle&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="48" height="48"/>
+
 
 **Programming Languages**
 
@@ -64,16 +65,16 @@ I'm actively interested in **open source contributions** and full stack engineer
 **Tools**
 
 <img src="https://skillicons.dev/icons?i=git,github&theme=dark"/>
-![Power BI](https://img.shields.io/badge/Power%20BI-6D28D9?style=for-the-badge&logo=powerbi&logoColor=white)
+
 
 ---
 
-## ðŸŸ£ GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=sohamashar21&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&border_color=6D28D9" width="49%"/>
-<img src="https://streak-stats.demolab.com/?user=sohamashar21&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates=7C6AAE" width="49%"/>
+<img src="https://streak-stats.demolab.com/?user=sohamashar21&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakNum=E9D5FF&sideNums=E9D5FF&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates=7C6AAE" width="49%"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohamashar21&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD&border_color=6D28D9" width="49%"/>
 <img src="https://github-profile-trophy.vercel.app/?username=sohamashar21&theme=dracula&no-frame=true&column=3&margin-w=8&margin-h=8" width="49%"/>
@@ -82,12 +83,12 @@ I'm actively interested in **open source contributions** and full stack engineer
 
 ---
 
-## ðŸŸ£ Contribution Activity
+## Contribution Activity
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sohamashar21&theme=dracula&hide_border=true&area=true" width="100%"/>
 
 <details>
-<summary>ðŸ Contribution Snake</summary>
+<summary>Contribution Snake</summary>
 <br/>
 
 <img src="https://raw.githubusercontent.com/sohamashar21/sohamashar21/output/github-contribution-grid-snake-dark.svg" width="100%"/>
@@ -98,7 +99,7 @@ I'm actively interested in **open source contributions** and full stack engineer
 
 ---
 
-## ðŸŸ£ Current Focus
+## Current Focus
 
 ```yaml
 current_focus:
@@ -117,7 +118,7 @@ current_focus:
 
 ---
 
-## ðŸŸ£ Connect With Me
+## Connect With Me
 
 <div align="center">
 
