@@ -115,6 +115,7 @@ current_focus:
 ## Connect With Me
 
 <div align="center">
+  
 [![Instagram](https://img.shields.io/badge/Instagram-8B5CF6?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mostlysoham)
 [![Reddit](https://img.shields.io/badge/Reddit-8B5CF6?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/user/sohamashar)
 [![Gmail](https://img.shields.io/badge/Gmail-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sohamashar21@gmail.com)
