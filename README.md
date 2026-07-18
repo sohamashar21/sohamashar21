@@ -71,9 +71,9 @@ I'm actively interested in **open source contributions** and full stack engineer
 
 ## GitHub Analytics
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=sohamashar21&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakNum=E9D5FF&sideNums=E9D5FF&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates=7C6AAE" width="80%"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sohamashar21&theme=tokyonight&hide_border=true" width="80%"/>
+</p>
 
 ---
 
