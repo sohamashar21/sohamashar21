@@ -130,5 +130,4 @@ current_focus:
 *Consistent small commits build great engineers.*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,50:302B63,100:0F0C29&height=110&section=footer" width="100%"/>
-
 </div>
